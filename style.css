@@ -1,0 +1,118 @@
+.dd{
+  width: 400px;
+  margin: auto;
+  padding: 20px;
+  margin-top: 10%;
+  background-color: rgb(79, 122, 133);
+}
+
+.login{
+  width: 100%;
+}
+
+#la{
+  display: block;
+  margin-right: 400px;
+}
+#l{
+  margin-right: 400px;
+}
+
+#bt1,#bt2{
+  width: 100%;
+  padding: 10px;
+  margin-top: 10px;
+  cursor: pointer;
+  background-color: #4caf50;
+  color: white;
+}
+
+#bt1:hover,
+#bt2:hover {
+  background-color: #45a049;
+}
+
+
+/* Styles for the container */
+.cc {
+  width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: rgb(79, 122, 133);
+}
+
+/* Styles for the form */
+.form1 {
+  width: 100%;
+}
+
+/* Center the heading */
+h1 {
+  text-align: center;
+  color: #ccc;
+}
+
+/* Styles for labels */
+.ll {
+  display: block;
+  margin-right: 400px;
+  font-weight: bold;
+}
+
+.lll {
+  display: block;
+  margin-right: 400px;
+  font-weight: bold;
+}
+
+.lli {
+  display: block;
+  margin-right: 400px;
+  font-weight: bold;
+}
+
+/* Styles for inputs */
+input[type="text"],
+input[type="email"],
+input[type="password"] {
+  width: 100%;
+  padding: 10px;
+  margin-top: 5px;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+/* Styles for buttons */
+#bt3,
+#bt4 {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  margin-top: 20px;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+#bt4 {
+  background-color: #808080;
+}
+
+#bt3:hover,
+#bt4:hover {
+  background-color: #45a049;
+}
+
+/* Center the buttons */
+button {
+  display: block;
+  margin: 0 auto;
+}
+
+/* Center the form */
+form {
+  text-align: center;
+}
